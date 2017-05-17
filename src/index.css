@@ -17,3 +17,16 @@
     border: 1px solid white;
     color: white;
 }
+
+/* Customize container */
+@media (max-width: 768px) {
+  .container {
+    max-width: 430px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 500px;
+  }
+}
