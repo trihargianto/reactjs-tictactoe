@@ -4,6 +4,9 @@ This project was created with [Create React App](https://github.com/facebookincu
 
 In the project directory, you can run:
 
+### `npm install`
+Install the app dependencies
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
