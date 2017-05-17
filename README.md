@@ -1,34 +1,23 @@
-This project was created with [Create React App](https://github.com/facebookincubator/create-react-app).
+Aplikasi ini dibuat menggunakan [Create React App](https://github.com/facebookincubator/create-react-app).<br>
 
-## Available Scripts
+Untuk menjalankan project ini, buka Command Line/Terminal lalu masuk ke direktori project ini.<br>
+(Pastikan komputer kamu telah terpasang NodeJS dan NPM).
 
-In the project directory, you can run:
+## Script yang dapat dijalankan melalui Terminal
 
 ### `npm install`
-Install the app dependencies
+Install dependency aplikasi (wajib dilakukan pertama kali)
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Perintah ini akan menjalankan aplikasi di dalam mode Development dan dapat dibuka melalui browser <br>
+Buka [http://localhost:3000](http://localhost:3000) untuk menampilkan programnya di browser kamu.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+Halaman ini akan di reload otomatis setiap kamu mengubah file yang berada pada folder /src.<br>
+Kamu juga dapat melihat error di Terminal/Console jika terdapat kode program yang salah.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Perintah ini digunakan untuk membuat aplikasi dalam mode Production ke dalam folder `build`.<br>
+Perintah ini akan membungkus aplikasi React ke dalam mode Production dan kode program juga akan sekaligus di- minify otomatis.<br>
+Perintah ini dijalankan apabila aplikasi telah siap di deploy. Untuk sekedar mencoba aplikasi cukup menggunakan `npm start`<br><br>
