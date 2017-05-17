@@ -1,0 +1,19 @@
+.square-container {
+    border: 1px solid #666;
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+    cursor: pointer;
+    user-select:none;
+}
+
+.square-container:empty::after {
+    content: ".";
+    visibility: hidden;
+}
+
+.square-container:hover, .square-container-active {
+    background-color: rgba(231, 76, 60,1.0);
+    border: 1px solid white;
+    color: white;
+}
