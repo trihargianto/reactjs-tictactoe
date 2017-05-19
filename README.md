@@ -1,4 +1,5 @@
 Aplikasi ini dibuat menggunakan [Create React App](https://github.com/facebookincubator/create-react-app).<br>
+Kamu dapat melihat Demo Aplikasi ini [disini](https://skinnygeekguy.github.io/react-tictactoe/)<br>
 
 Untuk menjalankan project ini, buka Command Line/Terminal lalu masuk ke direktori project ini.<br>
 (Pastikan komputer kamu telah terpasang NodeJS dan NPM).
